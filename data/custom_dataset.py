@@ -1,7 +1,4 @@
-"""
-Author: Wouter Van Gansbeke, Simon Vandenhende
-Licensed under the CC BY-NC 4.0 license (https://creativecommons.org/licenses/by-nc/4.0/)
-"""
+
 import numpy as np
 import torch
 from torch.utils.data import Dataset
