@@ -41,7 +41,7 @@ python eval.py --config_exp configs/scan/scan_cifar20.yml --model results/cifar-
 | CIFAR-20 | [Google Drive](https://drive.google.com/file/d/1GELVDCmompIT12iKv-Ib4SBNnfohmUTH/view?usp=sharing) |
 | STL-10   | [Google Drive](https://drive.google.com/file/d/1ZK5zs6jfjm6_CCm4gf6Ji0gGGrQCc0bk/view?usp=sharing) |
 
-### Trained Models
+### Datasets
 
 | Models   |  Links |
 |----------|------|
